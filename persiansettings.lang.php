@@ -250,40 +250,40 @@ $l['setting_delayedthreadviews_desc'] = 'اگر این تنظیم فعال با�
 
 
 $l['setting_group_member'] = 'گزینه‌های ورود و ثبت‌نام';
-$l['setting_group_member_desc'] = 'در اینجا شما می‌توانید تنظیمات مختلف مربوط به ثبت‌نام کاربران و مدیریت ورودها انجام دهید.';
+$l['setting_group_member_desc'] = 'Here you can control various settings with relation to user account registration and login management.';
 
-$l['setting_disableregs'] = 'غیرفعال‌سازی ثبت‌نام';
-$l['setting_disableregs_desc'] = 'به شما اجازه می‌دهد تا ثبت‌نام کردن کاربران با کلیک را غیرفعال کنید.';
-$l['setting_regtype'] = 'روش ثبت‌نام';
-$l['setting_regtype_desc'] = 'لطفا روشی که در ثبت‌نام استفاده شود را انتخاب کنید.';
-$l['setting_forcelogin'] = 'اجبار کاربران به ورود';
-$l['setting_forcelogin_desc'] = 'اگر این تنظیم را بر روی بله قرار دهید، مهمان ها به ورود یا عضویت برای دسترسی به انجمن مجبور می‌شوند.';
-$l['setting_minnamelength'] = 'حداقل طول نام‌کاربری';
-$l['setting_minnamelength_desc'] = 'حداقل تعداد حرف‌هایی که کاربر می‌تواند برای نام‌کاربری‌اش هنگام ثبت‌نام وارد کند را وارد فرمائید.';
-$l['setting_maxnamelength'] = 'حداکثر طول نام کاربری';
-$l['setting_maxnamelength_desc'] = 'حداکثر تعداد کاراکتری که کاربران بتوانند برای نام‌کاربری‌اشان در هنگام ثبت‌نام وارد کنند را وارد فرمائید.';
-$l['setting_minpasswordlength'] = 'حداقل طول رمزعبور';
-$l['setting_minpasswordlength_desc'] = 'حداقل حروف که رمزعبور باید دارا باشد.';
-$l['setting_maxpasswordlength'] = 'حداکثر طول رمزعبور';
-$l['setting_maxpasswordlength_desc'] = 'حداکثر تعداد حروفی که رمزعبور باید دارا باشد.';
-$l['setting_requirecomplexpasswords'] = 'نیاز به رمز عبور قوی؟';
-$l['setting_requirecomplexpasswords_desc'] = 'آیا شما می‌خواهید که کاربران از رمزعبور قوی استفاده کنند؟ رمزعبورهای قوی باید دارای یک حرف بزرگ، حرفی کوچک و یک عدد باشند.';
-$l['setting_betweenregstime'] = 'زمان بین ثبت‌نام‌ها';
-$l['setting_betweenregstime_desc'] = 'مدت زمانی که (به ساعت) که ثبت‌نام کردن برای کاربرانی که قبلا با آی‌پی آدرسی مشابه ثبت‌نام کردند بسته شود.';
-$l['setting_maxregsbetweentime'] = 'حداکثر عضویت برای هر آی‌پی';
-$l['setting_maxregsbetweentime_desc'] = 'این تنظیم به شما اجازه می‌دهد تا حداکثر تعدادی که یک کاربر با یک آی‌پی آدرس بتواند در کل ثبت‌نام کند را مشخص کنید.';
-$l['setting_allowmultipleemails'] = 'اجازه دادن به ایمیل‌ها برای ثبت‌نام چندین دفعه؟';
-$l['setting_allowmultipleemails_desc'] = 'بر روی بله قرار دهید اگر می‌خواهید که به کاربران اجازه دهید تا بتوانند با یک رایانامه بیش‌از یک بار ثبت‌نام کنند.';
-$l['setting_emailkeep'] = 'نگه‌داشتن ایمیل کاربران';
-$l['setting_emailkeep_desc'] = 'اگر ایمیل کاربران در لیست ایمیل‌های محروم باشد، آیا بتوانند آن را نگه دارند؟';
-$l['setting_hiddencaptchaimage'] = 'نمایش یک CAPTCHAی پنهان';
-$l['setting_hiddencaptchaimage_desc'] = 'آیا شما می‌خواهید که یک فیلد کپچای پنهان هنگام ثبت‌نام کاربران نمایش داده شود؟ این ممکن است از ثبت‌نام رباط‌های هرزه‌گر جلوگیری کند.';
-$l['setting_hiddencaptchaimagefield'] = 'نام فیلد کپچای پنهان';
-$l['setting_hiddencaptchaimagefield_desc'] = 'شما می‌توانید یک نام برای کپ‌چای پنهان در زیر انتخاب کنید.';
-$l['setting_usereferrals'] = 'استفاده از سیستم معرفی‌ها';
-$l['setting_usereferrals_desc'] = 'آیا شما می‌خواهید از سیستم معرفی‌ها در انجمنتان استفاده شود؟';
-$l['setting_coppa'] = 'پذیرش COPPA';
-$l['setting_coppa_desc'] = 'آیا شما می‌خواهید که  <a href="http://www.coppa.org/comply.htm">COPPA</a> را در انجمنتان فعال کنید، لطفا میزان مجاز را از زیر انتخاب کنید.';
+$l['setting_disableregs'] = 'Disable Registrations';
+$l['setting_disableregs_desc'] = 'Allows you to turn off the capability for users to register with one click.';
+$l['setting_regtype'] = 'Registration Method';
+$l['setting_regtype_desc'] = 'Please select the method of registration to use when users register.';
+$l['setting_forcelogin'] = 'Force Users to Login';
+$l['setting_forcelogin_desc'] = 'Setting this to yes will force guests to login or register in order to access the board.';
+$l['setting_minnamelength'] = 'Minimum Username Length';
+$l['setting_minnamelength_desc'] = 'The minimum number of characters a username can be when a user registers.';
+$l['setting_maxnamelength'] = 'Maximum Username Length';
+$l['setting_maxnamelength_desc'] = 'The maximum number of characters a username can be when a user registers.';
+$l['setting_minpasswordlength'] = 'Minimum Password Length';
+$l['setting_minpasswordlength_desc'] = 'The minimum number of characters a password should contain.';
+$l['setting_maxpasswordlength'] = 'Maximum Password Length';
+$l['setting_maxpasswordlength_desc'] = 'The maximum number of characters a password should contain.';
+$l['setting_requirecomplexpasswords'] = 'Require a complex password?';
+$l['setting_requirecomplexpasswords_desc'] = 'Do you want users to use complex passwords? Complex passwords require an upper case letter, lower case letter and a number.';
+$l['setting_betweenregstime'] = 'Time Between Registrations';
+$l['setting_betweenregstime_desc'] = 'The amount of time (in hours) to disallow registrations for users who have already registered an account under the same ip address.';
+$l['setting_maxregsbetweentime'] = 'Maximum Registrations Per IP Address';
+$l['setting_maxregsbetweentime_desc'] = 'This option allows you to set the maximum amount of times a certain user can register within the timeframe specified above.';
+$l['setting_allowmultipleemails'] = 'Allow emails to be registered multiple times?';
+$l['setting_allowmultipleemails_desc'] = 'Select yes if you wish to allow users to sign up with the same email more than once otherwise select no.';
+$l['setting_emailkeep'] = 'Users Keep Email';
+$l['setting_emailkeep_desc'] = 'If a current user has an email already registered in your banned list, should they be allowed to keep it?';
+$l['setting_hiddencaptchaimage'] = 'Display a hidden CAPTCHA';
+$l['setting_hiddencaptchaimage_desc'] = 'Do you want to display a hidden CAPTCHA field when a user registers? This may prevent spambots from registering on your forum.';
+$l['setting_hiddencaptchaimagefield'] = 'Hidden CAPTCHA field';
+$l['setting_hiddencaptchaimagefield_desc'] = 'You can choose a name for your hidden CAPTCHA field below.';
+$l['setting_usereferrals'] = 'Use Referrals System';
+$l['setting_usereferrals_desc'] = 'Do you want to use the user referrals system on these forums?';
+$l['setting_coppa'] = 'COPPA Compliance';
+$l['setting_coppa_desc'] = 'If you wish to enable <a href="http://www.coppa.org/comply.htm">COPPA</a> support on your forums, please select the registration allowance below.';
 $l['setting_username_method'] = 'Allowed Login Methods';
 $l['setting_username_method_desc'] = 'The login methods you wish to allow for the username field. Username only, Email only, or allow both.';
 $l['setting_failedcaptchalogincount'] = 'Number of failed logins before verification required';
@@ -331,16 +331,16 @@ $l['setting_useravatarrating_desc'] = 'Allows you to set the maximum rating for 
 <li><strong>R</strong>: may contain such things as harsh profanity, intense violence, nudity or hard drug use</li>
 <li><strong>X</strong>: may contain hardcore sexual imagery or extremely disturbing violence</li>
 </ul>';
-$l['setting_maxavatardims'] = 'Maximum Avatar Dimensions';
+$l['setting_maxavatardims'] = 'حداکثر ابعاد آواتار';
 $l['setting_maxavatardims_desc'] = 'The maximum dimensions that an avatar can be, in the format of width<b>x</b>height. If this is left blank then there will be no dimension restriction.';
-$l['setting_avatarsize'] = 'Max Uploaded Avatar Size';
-$l['setting_avatarsize_desc'] = 'Maximum file size (in kilobytes) of uploaded avatars.';
-$l['setting_avatarresizing'] = 'Avatar Resizing Mode';
+$l['setting_avatarsize'] = 'حداکثر حجم برای آپلود آواتار';
+$l['setting_avatarsize_desc'] = 'حداکثر حجم برای آواتار را به کیلوبایت وارد کنید';
+$l['setting_avatarresizing'] = 'حالت تغییر حجم آواتار';
 $l['setting_avatarresizing_desc'] = 'If you wish to automatically resize all large avatars, provide users the option of resizing their avatar, or not resize avatars at all you can change this setting.';
-$l['setting_avataruploadpath'] = 'Avatar Upload Path';
-$l['setting_avataruploadpath_desc'] = 'This is the path where custom avatars will be uploaded to. This directory <b>must be chmod 777</b> (writable) for uploads to work.';
-$l['setting_customtitlemaxlength'] = 'Custom User Title Maximum Length';
-$l['setting_customtitlemaxlength_desc'] = 'Maximum length a user can enter for the custom user title.';
+$l['setting_avataruploadpath'] = 'پوشه آپلود آواتار';
+$l['setting_avataruploadpath_desc'] = 'پوشه مورد نظر را برای آپلود آواتار را وارد کنید . توجه کنید که پوشه مورد نظر باید دسترسی 777 داشته باشد ';
+$l['setting_customtitlemaxlength'] = 'حداکثر طول عنوان کاربری';
+$l['setting_customtitlemaxlength_desc'] = 'بیشترین طول یک عنوان که کاربر میتواند وارد کند';
 $l['setting_allowaway'] = 'Allow Away Statuses?';
 $l['setting_allowaway_desc'] = 'Should users be allowed to set their status to \'Away\' with a custom reason & return date?';
 $l['setting_allowbuddyonly'] = 'Allow Buddy-Only Messaging?';
@@ -421,16 +421,16 @@ $l['setting_attachthumbw_desc'] = 'حداکثر عرض برای بندانگشت
 $l['setting_group_memberlist'] = 'لیست کاربران';
 $l['setting_group_memberlist_desc'] = 'This section allows you to control various aspects of the board member listing (memberlist.php), such as how many members to show per page, and which features to enable or disable.';
 
-$l['setting_enablememberlist'] = 'Enable Member List Functionality';
+$l['setting_enablememberlist'] = 'فعال کردن لیست کاربران';
 $l['setting_enablememberlist_desc'] = 'If you wish to disable the member list on your board, set this option to no.';
-$l['setting_membersperpage'] = 'Members Per Page';
-$l['setting_membersperpage_desc'] = 'The number of members to show per page on the member list.';
+$l['setting_membersperpage'] = 'تعداد کاربران در هر صفحه';
+$l['setting_membersperpage_desc'] = 'تعداد نمایش کاربران در هر صفحه';
 $l['setting_default_memberlist_sortby'] = 'Default Sort Field';
 $l['setting_default_memberlist_sortby_desc'] = 'Select the field that you want members to be sorted by default.';
 $l['setting_default_memberlist_order'] = 'Default Sort Order';
 $l['setting_default_memberlist_order_desc'] = 'Select the order that you want members to be sorted by default.<br />Ascending: A-Z / beginning-end<br />Descending: Z-A / end-beginning';
-$l['setting_memberlistmaxavatarsize'] = 'Maximum Display Avatar Dimensions';
-$l['setting_memberlistmaxavatarsize_desc'] = 'The maximum dimensions for avatars when being displayed in the member list. If an avatar is too large, it will automatically be scaled down.';
+$l['setting_memberlistmaxavatarsize'] = 'حداکثر نمایش ابعاد آواتار';
+$l['setting_memberlistmaxavatarsize_desc'] = 'حداکثر ابعاد برای آواتار هنگامی که در لیست اعضا نمایش داده می شود. اگر یک آواتار بیش از حد بزرگ باشد،ابعاد آن به طور خودکار تغییر میکند.';
 
 
 
@@ -439,29 +439,29 @@ $l['setting_group_reputation_desc'] = 'The reputation system allows your users t
 
 $l['setting_enablereputation'] = 'Enable Reputation Functionality';
 $l['setting_enablereputation_desc'] = 'If you wish to disable the reputation system on your board, set this option to no.';
-$l['setting_posrep'] = 'Allow Positive Reputation';
-$l['setting_posrep_desc'] = 'Allow users to give others positive reputation?';
-$l['setting_negrep'] = 'Allow Negative Reputation';
-$l['setting_negrep_desc'] = 'Allow users to give others negative reputation?';
-$l['setting_neurep'] = 'Allow Neutral Reputation';
-$l['setting_neurep_desc'] = 'Allow users to give others neutral reputation?';
+$l['setting_posrep'] = 'اعتبار مثبت';
+$l['setting_posrep_desc'] = 'آیا کاربران میتوانند اعتبار مثبت بدهند؟';
+$l['setting_negrep'] = 'اعتبار منفی';
+$l['setting_negrep_desc'] = 'آیا کاربران میتوانند اعتبار منفی بدهند؟';
+$l['setting_neurep'] = 'اعتبار خنثی';
+$l['setting_neurep_desc'] = 'آیا کاربران میتوانند اعتبار خنثی بدهند؟';
 $l['setting_multirep'] = 'Allow Multiple Reputation';
 $l['setting_multirep_desc'] = 'Can users give multiple reputations to the same user?<br />Note: Does not effect "Post" reputation';
 $l['setting_postrep'] = 'Allow Post Reputations';
 $l['setting_postrep_desc'] = 'Enable reputation to be linked to posts?';
-$l['setting_repsperpage'] = 'Reputation Comments Per Page';
-$l['setting_repsperpage_desc'] = 'Here you can enter the number of reputation comments to show per page on the reputation system';
-$l['setting_maxreplength'] = 'Maximum Reputation Length';
-$l['setting_maxreplength_desc'] = 'The maximum number of characters a reputation can be.';
-$l['setting_minreplength'] = 'Minimum Reputation Length';
-$l['setting_minreplength_desc'] = 'The minimum number of characters a reputation can be.';
+$l['setting_repsperpage'] = 'تعداد اعتبار در هر صفحه';
+$l['setting_repsperpage_desc'] = 'تعداد نمایش اعتبار در هر صفحه';
+$l['setting_maxreplength'] = 'حداکثر طول برای عنوان اعتبار';
+$l['setting_maxreplength_desc'] = 'حداکثر کاراکتری که میتوانید برای عنوان اعتبار استفاده کنید';
+$l['setting_minreplength'] = 'حداقل طول برای عنوان اعتبار';
+$l['setting_minreplength_desc'] = 'حداقل کاراکتری که میتوانید برای عنوان اعتبار استفاده کنید';
 
 
 
 $l['setting_group_warning'] = 'تنظیمات سیستم اخطار';
 $l['setting_group_warning_desc'] = 'The warning system allows forum staff to warn users for rule violations. Here you can manage the settings that control the warning system (warnings.php).';
 
-$l['setting_enablewarningsystem'] = 'Enable Warning System?';
+$l['setting_enablewarningsystem'] = 'فعال کردن سیستم اخطار';
 $l['setting_enablewarningsystem_desc'] = 'Set to no to completely disable the warning system.';
 $l['setting_allowcustomwarnings'] = 'Allow Custom Warning Types?';
 $l['setting_allowcustomwarnings_desc'] = 'Allow a custom reason and amount of points to be specified by those with permissions to warn users.';
@@ -477,15 +477,15 @@ $l['setting_maxwarningpoints_desc'] = 'The maximum warning points that can be gi
 $l['setting_group_privatemessaging'] = 'پیام خصوصی';
 $l['setting_group_privatemessaging_desc'] = 'Various options with relation to the MyBB Private Messaging system (private.php) can be managed and set here.';
 
-$l['setting_enablepms'] = 'Enable Private Messaging Functionality';
+$l['setting_enablepms'] = 'فعال کردن پیام خصوصی';
 $l['setting_enablepms_desc'] = 'If you wish to disable the private messaging system on your board, set this option to no.';
-$l['setting_pmquickreply'] = 'Show Quick Reply Form';
+$l['setting_pmquickreply'] = 'نمایش پاسخ سریع';
 $l['setting_pmquickreply_desc'] = 'Allows you to set whether or not the quick reply form will be shown at the bottom of PMs.';
-$l['setting_pmsallowhtml'] = 'Allow HTML';
+$l['setting_pmsallowhtml'] = 'مجاز بودن HTML';
 $l['setting_pmsallowhtml_desc'] = 'Selecting yes will allow HTML to be used in private messages.';
-$l['setting_pmsallowmycode'] = 'Allow MyCode';
+$l['setting_pmsallowmycode'] = 'مجاز بودن MyCode';
 $l['setting_pmsallowmycode_desc'] = 'Selecting yes will allow MyCode to be used in private messages.';
-$l['setting_pmsallowsmilies'] = 'Allow Smilies';
+$l['setting_pmsallowsmilies'] = 'مجاز بودن شکلکها';
 $l['setting_pmsallowsmilies_desc'] = 'Selecting yes will allow Smilies to be used in private messages.';
 $l['setting_pmsallowimgcode'] = 'Allow [img] Code';
 $l['setting_pmsallowimgcode_desc'] = 'Selecting yes will allow [img] Code to be used in private messages.';
